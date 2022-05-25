@@ -1,6 +1,6 @@
 <figure>
   <a href="https://www.flaticon.com/free-stickers/user" title="user stickers" target="_blank">User stickers created by Stickers - Flaticon</a>
-  <img align=right height="550" src="https://github.com/MarcellaHarr/marcellaharr.github.io/blob/main/woman_clipart.png?raw=true" alt="missing"/>
+  <img align=right height="350" src="https://github.com/MarcellaHarr/marcellaharr.github.io/blob/main/woman_clipart.png?raw=true" alt="missing"/>
 </figure>
 
 
