@@ -1,10 +1,10 @@
-<figure style="display:inline; float:right">
+<p style="display:inline; float:right">
 
-<img style="height:300px" src="https://github.com/MarcellaHarr/marcellaharr.github.io/blob/main/woman_clipart.png?raw=true"><br />
+<img align=right style="height:300px" src="https://github.com/MarcellaHarr/marcellaharr.github.io/blob/main/woman_clipart.png?raw=true"><br />
 
-<p style="text-indent:15%"><a href="https://www.flaticon.com/free-stickers/user" title="user stickers" target="_blank">User stickers created by Stickers - Flaticon</a></p>
+<p style="text-indent:-15%; display:flex; float:right; padding-left:60%; font:small-caption"><a href="https://www.flaticon.com/free-stickers/user" title="user stickers" target="_blank">User stickers created by Stickers - Flaticon</a></p>
 
-</figure>
+</p>
 
 
 ## Hello, hello!👋
