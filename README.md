@@ -1,6 +1,6 @@
-<figure style="display:inline; float:right; inset-inline:-550%">
+<figure style="display:inline; float:right">
 
-<img src="https://github.com/MarcellaHarr/marcellaharr.github.io/blob/main/woman_clipart.png?raw=true"><br />
+<img style="height:300px" src="https://github.com/MarcellaHarr/marcellaharr.github.io/blob/main/woman_clipart.png?raw=true"><br />
 
 <p style="text-indent:15%"><a href="https://www.flaticon.com/free-stickers/user" title="user stickers" target="_blank">User stickers created by Stickers - Flaticon</a></p>
 
