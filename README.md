@@ -1,10 +1,6 @@
-<body align="right" style="display:inline; float:right; padding-top:100px">
- <h4 align="right">User stickers created by Stickers - Flaticon</h4>
- 
-<img align="right" src="https://github.com/MarcellaHarr/marcellaharr.github.io/blob/main/woman_clipart.png?raw=true" style="height:300px padding-top:100px">
-</body>
-
 ## Hello, hello!👋
+
+![Profile_Sticker](https://github.com/user-attachments/assets/cdc84787-6db7-455c-bef7-f6291544a778)
 
 My name is `Marcella` and I'm a junior data analyst in progress. I've been on this journey since `May 2021` and I'm loving all the data, programming languages, and methods I'm learning from professionals and enthusiasts. Taking things one day at a time, I'm finding unique solutions to every challenge I've faced. My goal is to become proficient in Python, SQL, and R, so I can unlock information, solutions, and insights to help those who need it. I'm also passionate about using data to tell stories and draw meaningful insights. I'm excited to be part of this field and to continue to grow my skills and knowledge in data analysis. To help me reach my goal, I'm currently taking classes to brush up on my coding and data analysis skills. I'm also actively seeking opportunities to collaborate with other data analysts and learn from them. I'm confident that with hard work and dedication, I can reach my goal of becoming a competent `data analyst`.
 
