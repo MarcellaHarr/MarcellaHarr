@@ -6,7 +6,7 @@ My name is `Marcella,` and I'm a junior data analyst in progress. I've been on t
 
 
  Here are some ideas to get you started:
- - 🔭 I’m currently working on ...  `A Geneology Website`
+ - 🔭 I’m currently working on ...  `A Genealogy Website`
  - :school: I'm currently attending ... `Western Governors University`
  - 🌱 I’m currently learning ... `Python & JavaScript`
  - 👯 I’m looking to collaborate on ... `With others`
